@@ -1,4 +1,4 @@
-# Vim Text Editor Reference (Topic 103.8)
+# Vim Text Editor Reference
 
 ## Modes
 - **Normal Mode**: Default mode for navigation and manipulation.
